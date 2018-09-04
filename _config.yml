@@ -1,3 +1,4 @@
+---
 title: "My New Site in G"
 date: 2018-09-04
 author: Richard Huo
@@ -14,3 +15,4 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+---
